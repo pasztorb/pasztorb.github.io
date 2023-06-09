@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mathematics with Economics, University College London, 2018
+* M.Sc. in Data Science, ETH Zurich, 2020
+* Ph.D in Machine Learning, ETH Zurich, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data Scientist (2020 October - 2022 August)
+  * QuantumBlack, AI by McKinsey & Company (Zürich, Switzerland)
+  * Industries: Automotive, Telecommunication, Mining, Pharmaceutical, Retail
+  * Functions: Pricing, Marketing, Due Diligence, Forecasting
+* Research Assistant (2019 February - 2020 February)
+  * Social Networks lab, ETH Zurich (Zürich, Switzerland)
+  * Supervisor: Prof. Dr. Ulrik Brandes
+  * Research topic: Graph Embedding & Visualization
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -53,7 +44,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

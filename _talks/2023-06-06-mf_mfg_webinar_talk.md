@@ -1,7 +1,7 @@
 ---
 title: "Efficient Model-Based Multi-Agent Mean-Field Reinforcement Learning"
 collection: talks
-type: "Talk"
+type: "Webinar"
 permalink: /talks/2023-06-06-mf_mfg_webinar_talk
 venue: "Machine Learning and Mean-Field Games Seminar"
 date: 2023-06-06

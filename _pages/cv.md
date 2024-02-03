@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Mathematics with Economics, University College London, 2018
+* Ph.D in Machine Learning, ETH AI Center (ETH Zurich), 2025 (expected)
+  * Topic: Multi-agent Learning in General-sum Games
+  * Supervisors: Prof. Dr. Andreas Krause, Prof. Dr. Sven Seuken
 * M.Sc. in Data Science, ETH Zurich, 2020
-* Ph.D in Machine Learning, ETH Zurich, 2025 (expected)
+* B.Sc. in Mathematics with Economics, University College London, 2018
 
 Work experience
 ======
@@ -29,10 +31,19 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+<ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Academic Achievements
+======
+* Finalist, MeltingPot competition (NeurIPS 2023)
+  * Top 6 out of 117 teams
+  * Developed a Multi-Agent RL system to learn in challenging social dilemma environments
+  * Techniques and frameworks used: IMPALA, A2C, PopArt, reward shaping, curriculum learning, RLLib
+* 2nd place, Computational Social Choice Competition (IJCAI 2023)
+  * Proposed a provably optimal and efficient voting rule for best-k candidate voting problem
+
 Talks
 ======
   <ul>{% for post in site.talks %}

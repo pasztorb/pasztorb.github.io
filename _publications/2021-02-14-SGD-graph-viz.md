@@ -17,7 +17,3 @@ layouts. It thus comes as a surprise that a novel approach based on stochastic g
 (Zheng, Pawar and Goodman, TVCG 2019) is claimed to improve on state-of-the-art approaches based on majorization.
 We present experimental evidence that the new approach does not actually yield better layouts, but that it is still to
 be preferred because it is simpler and robust against poor initialization.
-
-Recommended citation: Katharina Börsig, Ulrik Brandes, Barna Pásztor (2021).
-&quot;Stochastic Gradient Descent Works Really Well for Stress Minimization.&quot;
-<i>Graph Drawing and Network Visualization</i>.

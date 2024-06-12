@@ -22,5 +22,3 @@ Notably, HPGD only utilizes observations of the followers’ trajectories.
 Therefore, it allows followers to use any training procedure and the leader to be agnostic of the specific algorithm used, which aligns with various real-world scenarios.
 We further consider the setting when the leader can influence the training of followers and propose an accelerated algorithm.
 We empirically demonstrate the performance of our algorithm.
-
-Recommended citation: Vinzenz Thoma, Barna Pasztor, Andreas Krause, Giorgia Ramponi, Yifan Hu. 2024. Stochastic Bilevel Optimization with Lower-Level Contextual Markov Decision Processes. ArXiv.

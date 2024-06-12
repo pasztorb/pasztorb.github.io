@@ -21,5 +21,3 @@ data and employ tools from information theory to quantify the information transf
 stock market. Furthermore, we analyse and quantify the economic significance of the news-based information with a
 simple sentiment-based portfolio trading strategy. Our findings provide support for that information in publicly
 available news on the World Wide Web has a statistically and economically significant impact on events in financial markets.
-
-Recommended citation: Metod Jazbec, Barna Pásztor, Felix Faltings, Nino Antulov-Fantulin, Petter N Kolm (2021). &quot;On the impact of publicly available news and information transfer to financial markets.&quot; <i>Royal Society Open Science</i>.

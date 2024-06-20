@@ -7,8 +7,6 @@ permalink: /publication/2024-06-04-stackelberg_dueling_bandits
 date: 2024-06-03
 venue: 'FoRLaC ICML Workshop (2024)'
 paperurl: 'https://openreview.net/forum?id=FUKfuDzo3o&referrer=%5Bthe%20profile%20of%20Barna%20Pásztor%5D(%2Fprofile%3Fid%3D~Barna_Pásztor1)'
-
-[//]: # (citation: )
 ---
 [Download paper here](https://openreview.net/pdf?id=FUKfuDzo3o)
 

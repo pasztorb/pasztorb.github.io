@@ -9,7 +9,6 @@ venue: 'Royal Society Open Science'
 paperurl: 'https://royalsocietypublishing.org/doi/full/10.1098/rsos.202321'
 citation: 'Metod Jazbec, Barna Pásztor, Felix Faltings, Nino Antulov-Fantulin, Petter N Kolm (2021). &quot;On the impact of publicly available news and information transfer to financial markets.&quot; <i>Royal Society Open Science</i>.'
 ---
-[Download paper here](https://royalsocietypublishing.org/doi/full/10.1098/rsos.202321)
 
 **Abstract**:
 We quantify the propagation and absorption of large-scale publicly available news articles from the World Wide Web to

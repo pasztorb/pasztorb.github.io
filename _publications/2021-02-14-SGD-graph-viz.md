@@ -9,7 +9,6 @@ venue: 'Graph Drawing and Network Visualization'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-68766-3_2'
 citation: 'Katharina Börsig, Ulrik Brandes, Barna Pásztor (2021). &quot;Stochastic Gradient Descent Works Really Well for Stress Minimization.&quot; <i>Graph Drawing and Network Visualization</i>.'
 ---
-[Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-68766-3_2)
 
 **Abstract**:
 Stress minimization is among the best studied force-directed graph layout methods because it reliably yields high-quality

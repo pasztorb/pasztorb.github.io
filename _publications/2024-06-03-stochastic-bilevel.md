@@ -9,7 +9,6 @@ venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2406.01575'
 citation: Vinzenz Thoma, Barna Pasztor, Andreas Krause, Giorgia Ramponi, Yifan Hu. 2024. Stochastic Bilevel Optimization with Lower-Level Contextual Markov Decision Processes. ArXiv.
 ---
-[Download paper here](https://arxiv.org/pdf/2406.01575)
 
 **Abstract**:
 In various applications, the optimal policy in a strategic decision-making problem depends both on the environmental configuration and exogenous events.

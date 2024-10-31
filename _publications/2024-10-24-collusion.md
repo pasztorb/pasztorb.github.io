@@ -7,9 +7,8 @@ permalink: /publication/2024-10-24-collusion
 date: 2024-10-24
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2410.18871'
-citation: Paul Friedrich, Barna Pásztor, Giorgia Ramponi. 2024. Learning Collusion in Episodic, Inventory-Constrained Markets. ArXiv.
+citation: Paul Friedrich, Barna Pasztor, Giorgia Ramponi. 2024. Learning Collusion in Episodic, Inventory-Constrained Markets. ArXiv.
 ---
-[Download paper here](https://arxiv.org/abs/2410.18871)
 
 **Abstract**:
 Pricing algorithms have demonstrated the capability to learn tacit collusion that is largely unaddressed by current regulations.

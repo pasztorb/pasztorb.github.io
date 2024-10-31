@@ -9,7 +9,6 @@ venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2406.16745'
 citation: Barna Pasztor, Parnian Kassraie, Andreas Krause. 2024. Bandits with Preference Feedback: A Stackelberg Game Perspective. ArXiv.
 ---
-[Download paper here](https://arxiv.org/abs/2406.16745)
 
 **Abstract**:
 Bandits with preference feedback present a powerful tool for optimizing unknown target functions when only pairwise comparisons are allowed instead of direct value queries.

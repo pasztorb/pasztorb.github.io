@@ -5,9 +5,9 @@ permalink: /publication/2024-06-04-stackelberg_dueling_bandits
 
 [//]: # (excerpt: 'This paper is about the number 1. The number 2 is left for future work.')
 date: 2024-06-24
-venue: 'ArXiv'
-paperurl: 'https://arxiv.org/abs/2406.16745'
-citation: Barna Pasztor, Parnian Kassraie, Andreas Krause. 2024. Bandits with Preference Feedback: A Stackelberg Game Perspective. ArXiv.
+venue: 'NeurIPS 2024'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/hash/1646e34971facbcda3727d1dc28ab635-Abstract-Conference.html'
+citation: "Barna Pasztor, Parnian Kassraie, Andreas Krause. Bandits with Preference Feedback: A Stackelberg Game Perspective. Advances in Neural Information Processing Systems 2024."
 ---
 
 **Abstract**:

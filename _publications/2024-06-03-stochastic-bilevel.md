@@ -5,9 +5,9 @@ permalink: /publication/2024-06-03-stochastic-bilevel
 
 [//]: # (excerpt: 'This paper is about the number 1. The number 2 is left for future work.')
 date: 2024-06-03
-venue: 'ArXiv'
-paperurl: 'https://arxiv.org/abs/2406.01575'
-citation: Vinzenz Thoma, Barna Pasztor, Andreas Krause, Giorgia Ramponi, Yifan Hu. 2024. Stochastic Bilevel Optimization with Lower-Level Contextual Markov Decision Processes. ArXiv.
+venue: 'NeurIPS 2024'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/hash/e66309ead63bc1410d2df261a28f602d-Abstract-Conference.html'
+citation: Vinzenz Thoma, Barna Pasztor, Andreas Krause, Giorgia Ramponi, Yifan Hu. Stochastic Bilevel Optimization with Lower-Level Contextual Markov Decision Processes. Advances in Neural Information Processing Systems 2024.
 ---
 
 **Abstract**:

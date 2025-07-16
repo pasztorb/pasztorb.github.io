@@ -5,9 +5,9 @@ permalink: /publication/2024-10-24-collusion
 
 [//]: # (excerpt: 'This paper is about the number 1. The number 2 is left for future work.')
 date: 2024-10-24
-venue: 'ArXiv'
-paperurl: 'https://arxiv.org/abs/2410.18871'
-citation: Paul Friedrich, Barna Pasztor, Giorgia Ramponi. 2024. Learning Collusion in Episodic, Inventory-Constrained Markets. ArXiv.
+venue: 'AAMAS 2025'
+paperurl: 'https://ifaamas.csc.liv.ac.uk/Proceedings/aamas2025/pdfs/p803.pdf'
+citation: Paul Friedrich, Barna Pasztor, Giorgia Ramponi. Learning Collusion in Episodic, Inventory-Constrained Markets. AAMAS 2025.
 ---
 
 **Abstract**:

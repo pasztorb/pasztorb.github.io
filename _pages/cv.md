@@ -11,14 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Machine Learning, ETH AI Center (ETH Zurich), 2025 (expected)
-  * Topic: Multi-agent Learning in General-sum Games
-  * Supervisors: Prof. Dr. Andreas Krause, Prof. Dr. Sven Seuken
+* Ph.D in Machine Learning, ETH AI Center (ETH Zurich), 2026 (expected)
+  * Topic: Reinforcement Learning from Human Feedback & Multi-Agent Reinforcement Learning
+  * Supervisors: Prof. Dr. Andreas Krause, Prof. Dr. Giorgia Ramponi
 * M.Sc. in Data Science, ETH Zurich, 2020
 * B.Sc. in Mathematics with Economics, University College London, 2018
 
 Work experience
 ======
+* Post-training team lead (2025 June - 2025 September)
+  * Swiss AI Initiative (Zürich, Switzerland)
+  * Team-lead and core contributor for the Apertus open-source LLM's post-training team
+  * Managed the day-to-day operations of a 10+ people team synchronizing efforts across data collection, model training, and evaluation.
+  * Curated open-source datasets and benchmarks for the post-training experiments and implemented a data decontamination pipeline
 * Data Scientist (2020 October - 2022 August)
   * QuantumBlack, AI by McKinsey & Company (Zürich, Switzerland)
   * Industries: Automotive, Telecommunication, Mining, Pharmaceutical, Retail
